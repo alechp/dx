@@ -1,3 +1,8 @@
+# Repogen
+dx-cli
+dx-ide
+.repositories
+
 # Logs
 logs
 *.log
