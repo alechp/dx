@@ -1,7 +1,10 @@
 # Repogen
-dx-cli
-dx-ide
 .repositories
+dx-cli
+dx-os
+dx-os-mac
+dx-os-linux
+dx-os-linux-arm
 
 # Logs
 logs
